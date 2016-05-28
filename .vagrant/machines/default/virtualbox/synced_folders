@@ -1,0 +1,1 @@
+{"nfs":{},"virtualbox":{"/home/vagrant/projectflyer":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/projectflyer","hostpath":"/Users/tinusbritz/Development/Lara/projectflyer","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tinusbritz/Development/Lara/projectflyer","disabled":false,"__vagrantfile":true}}}
